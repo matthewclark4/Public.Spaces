@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  PublicSpaces
+
+  Created by Matthew Clark on 08/04/2020.
+  Copyright © 2020 Matthew Clark. All rights reserved.
+*/
+
+"list"                                  	= "list";
+"map"                                       = "map";
+"gallery"                                   = "gallery";
+"about"                                     = "about";
+"click to add layer"                        = " ⃰click to add layer ⃰";
+"home"                                      = "home";
+
+"Coal Drops"                                = "Coal Drops \nYard\n\n0.2mi\n\nOwned by Kings Cross Central ";
+"Paternoster Square"                        = "Paternoster Square\n\n2.2mi\n\nOwned by Mitsubishi Estate";
+"Greenwich Peninsula"                       = "Greenwich Peninsula\n\n9.4mi\n\nOwned by\nKnight Dragon";
+"St. Martin's Courtyard"                    = "St. Martin's Courtyard\n\n2.5mi\n\nOwned by Longmartin Properties";
+"Jubilee Park"                              = "Jubilee Park\n\n6.1mi\n\nOwned by Canary Wharf Group";
+"Bankside"                                  = "Bankside\n\n\n2.8mi\n\nOwned by JP Morgan";
+"Regents Place"                             = "Regents Place\n\n1.8mi\n\nOwned by British Land";
+"More London"                               = "More London\n\n\n3.6mi\n\nOwned by St Martins Property";
+"Merchant Square"                           = "Merchant Square\n\n3.2mi\n\nOwned by Qatari Diar";
+
+"place_name_1"                              = "Coal Drops \nYard";
+"place_name_2"                              = "Paternoster Square";
+"place_name_3"                              = "Greenwich Peninsula";
+"place_name_4"                              = "St. Martin's Courtyard";
+"place_name_5"                              = "Jubilee \nPark";
+"place_name_6"                              = "Bankside";
+"place_name_7"                              = "Regents \nPlace";
+"place_name_8"                              = "More London";
+"place_name_9"                              = "Merchant Square";
+
+"miles_1"                                   = "0.2mi";
+"miles_2"                                   = "2.2mi";
+"miles_3"                                   = "9.4mi";
+"miles_4"                                   = "2.5mi";
+"miles_5"                                   = "6.1mi";
+"miles_6"                                   = "2.8mi";
+"miles_7"                                   = "1.8mi";
+"miles_8"                                   = "3.6mi";
+"miles_9"                                   = "3.2mi";
+
+"place_owner_name_1"                        = "Owned by Kings Cross Central";
+"place_owner_name_2"                        = "Owned by Mitsubishi Estate";
+"place_owner_name_3"                        = "Owned by\nKnight \nDragon";
+"place_owner_name_4"                        = "Owned by Longmartin Properties";
+"place_owner_name_5"                        = "Owned by Canary \nWharf Group";
+"place_owner_name_6"                        = "Owned by JP Morgan";
+"place_owner_name_7"                        = "Owned by British Land";
+"place_owner_name_8"                        = "Owned by St Martins Property";
+"place_owner_name_9"                        = "Owned by Qatari Diar";
+
+"about_text"                                = "PublicSpaces is a digital tool for urban commoning. It is intended to subvert, disrupt and democratise the privatisation of public space in London.\n\nThere are now well over 50 pseudo public spaces in London, not only are these spaces discriminative but they are also not subject to ordinary local authority bylaws. This creates an entirely exclusionary zone.\n\nUsers are invited to add a new layer on-top of these zones which asks people to explore what makes these spaces so exclusive and question what is the value of public space? ";
